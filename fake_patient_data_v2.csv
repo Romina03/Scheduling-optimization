@@ -1,0 +1,201 @@
+Patient ID,Age,Medical History,Appointment Type,Scheduled Duration,Actual Duration,Appointment Priority,Patient Complexity Score,Provider Specialty,Wait Time (minutes)
+PT-001,28,"Diabetes, None, Hypertension",Urgent Care,30,35,Urgent,4,Cardiologist,21
+PT-002,25,Hypertension,Follow-up,30,40,Urgent,2,General Practitioner,20
+PT-003,43,"None, Hypertension",Routine Check-up,30,20,Medium,2,General Practitioner,53
+PT-004,87,"Hypertension, Asthma",Routine Check-up,15,5,Low,3,General Practitioner,16
+PT-005,83,"None, Heart Disease",Follow-up,30,40,Low,3,General Practitioner,90
+PT-006,36,"Diabetes, None, Asthma",Follow-up,30,35,Low,3,General Practitioner,22
+PT-007,87,None,"Forms (WCB, Insurance, etc.)",15,10,Urgent,3,General Practitioner,16
+PT-008,48,"None, Heart Disease",Blood Work Requisition,30,20,Medium,2,Cardiologist,29
+PT-009,71,"Arthritis, Hypertension, Chronic Pain",Vaccination,15,25,Medium,4,Neurologist,68
+PT-010,65,"None, Heart Disease",Routine Check-up,15,20,Low,2,General Practitioner,88
+PT-011,57,None,"Forms (WCB, Insurance, etc.)",30,25,Urgent,2,General Practitioner,16
+PT-012,42,Chronic Pain,Vaccination,15,20,Urgent,2,Neurologist,10
+PT-013,76,Heart Disease,"Forms (WCB, Insurance, etc.)",30,35,Low,2,General Practitioner,68
+PT-014,78,Chronic Pain,Follow-up,30,35,Low,2,General Practitioner,15
+PT-015,32,None,Blood Work Requisition,30,35,Urgent,2,Cardiologist,16
+PT-016,20,"None, Chronic Pain, Asthma",Urgent Care,15,25,Urgent,4,Neurologist,12
+PT-017,62,"None, Heart Disease, Chronic Pain",Blood Work Requisition,15,10,Urgent,4,Neurologist,17
+PT-018,58,None,Follow-up,15,5,Medium,1,General Practitioner,41
+PT-019,58,Diabetes,Vaccination,30,30,Medium,1,General Practitioner,42
+PT-020,73,"None, Heart Disease",Follow-up,30,30,Urgent,4,General Practitioner,30
+PT-021,30,Hypertension,Blood Work Requisition,15,5,Urgent,2,General Practitioner,14
+PT-022,83,"Diabetes, Arthritis, Asthma",Follow-up,15,25,Medium,4,General Practitioner,69
+PT-023,87,Heart Disease,Vaccination,15,15,Low,2,General Practitioner,60
+PT-024,61,"None, Chronic Pain",Blood Work Requisition,30,25,Urgent,3,Cardiologist,11
+PT-025,90,None,Urgent Care,15,10,Urgent,3,General Practitioner,2
+PT-026,62,"None, Heart Disease",Blood Work Requisition,30,20,Low,2,Cardiologist,72
+PT-027,57,Asthma,Blood Work Requisition,15,20,Urgent,2,Neurologist,19
+PT-028,21,Diabetes,Urgent Care,30,30,Urgent,2,General Practitioner,0
+PT-029,62,Chronic Pain,Blood Work Requisition,15,10,Urgent,2,Neurologist,8
+PT-030,21,Asthma,Follow-up,30,20,Medium,1,General Practitioner,47
+PT-031,54,None,Vaccination,30,30,Medium,1,Cardiologist,14
+PT-032,83,"None, Heart Disease, Hypertension","Forms (WCB, Insurance, etc.)",30,20,Medium,4,General Practitioner,9
+PT-033,87,Chronic Pain,Follow-up,15,15,Urgent,3,General Practitioner,21
+PT-034,51,None,Blood Work Requisition,30,40,Low,1,General Practitioner,72
+PT-035,36,Chronic Pain,"Forms (WCB, Insurance, etc.)",15,25,Medium,1,General Practitioner,6
+PT-036,79,"Arthritis, Chronic Pain",Vaccination,15,25,Medium,3,Neurologist,41
+PT-037,76,Asthma,"Forms (WCB, Insurance, etc.)",15,20,Medium,2,General Practitioner,5
+PT-038,51,"Heart Disease, Hypertension",Blood Work Requisition,15,25,Low,2,Cardiologist,48
+PT-039,47,"None, Hypertension",Urgent Care,30,40,Urgent,3,General Practitioner,10
+PT-040,54,"Arthritis, None, Chronic Pain",Urgent Care,15,0,Urgent,4,Neurologist,5
+PT-041,23,"Diabetes, Asthma",Urgent Care,15,10,Urgent,3,Neurologist,14
+PT-042,90,"Arthritis, None",Blood Work Requisition,15,15,Low,3,Neurologist,48
+PT-043,24,"Arthritis, Hypertension",Vaccination,15,25,Medium,2,Cardiologist,62
+PT-044,35,"Hypertension, Chronic Pain","Forms (WCB, Insurance, etc.)",15,20,Low,2,General Practitioner,30
+PT-045,89,None,Vaccination,15,25,Medium,2,General Practitioner,66
+PT-046,53,"Heart Disease, Chronic Pain","Forms (WCB, Insurance, etc.)",15,25,Medium,2,General Practitioner,88
+PT-047,51,"None, Heart Disease",Follow-up,15,25,Urgent,3,General Practitioner,8
+PT-048,20,"Arthritis, Heart Disease, Asthma","Forms (WCB, Insurance, etc.)",15,5,Low,3,General Practitioner,79
+PT-049,23,Heart Disease,Urgent Care,30,40,Urgent,2,General Practitioner,1
+PT-050,18,None,Blood Work Requisition,30,0,Medium,1,Cardiologist,79
+PT-051,90,None,Blood Work Requisition,15,20,Urgent,3,General Practitioner,25
+PT-052,89,None,Urgent Care,15,20,Urgent,3,Neurologist,2
+PT-053,78,"None, Chronic Pain",Follow-up,15,10,Urgent,4,General Practitioner,30
+PT-054,56,"Arthritis, Hypertension",Routine Check-up,15,25,Medium,2,General Practitioner,55
+PT-055,66,"Arthritis, Chronic Pain",Vaccination,15,10,Medium,3,Cardiologist,20
+PT-056,25,Hypertension,Urgent Care,15,10,Urgent,2,Cardiologist,23
+PT-057,26,"None, Chronic Pain","Forms (WCB, Insurance, etc.)",30,35,Urgent,3,General Practitioner,8
+PT-058,27,"None, Heart Disease, Asthma",Routine Check-up,15,0,Low,3,General Practitioner,54
+PT-059,62,"Heart Disease, Chronic Pain","Forms (WCB, Insurance, etc.)",30,20,Low,2,General Practitioner,25
+PT-060,56,Chronic Pain,Blood Work Requisition,30,30,Low,1,General Practitioner,32
+PT-061,76,"None, Hypertension, Chronic Pain",Vaccination,30,25,Urgent,5,Neurologist,27
+PT-062,74,Diabetes,"Forms (WCB, Insurance, etc.)",30,40,Low,2,General Practitioner,41
+PT-063,22,Hypertension,"Forms (WCB, Insurance, etc.)",30,0,Urgent,2,General Practitioner,19
+PT-064,48,None,"Forms (WCB, Insurance, etc.)",15,5,Urgent,2,General Practitioner,30
+PT-065,46,"Diabetes, None",Urgent Care,30,20,Urgent,3,Cardiologist,21
+PT-066,80,"Diabetes, None, Chronic Pain",Follow-up,15,5,Medium,4,General Practitioner,56
+PT-067,88,None,"Forms (WCB, Insurance, etc.)",30,25,Medium,2,General Practitioner,66
+PT-068,87,"Heart Disease, Asthma",Vaccination,30,35,Medium,3,Cardiologist,25
+PT-069,40,"Diabetes, None",Vaccination,30,20,Low,2,Neurologist,69
+PT-070,35,Heart Disease,Follow-up,15,5,Urgent,2,General Practitioner,1
+PT-071,70,"Hypertension, Asthma",Urgent Care,30,35,Urgent,4,General Practitioner,2
+PT-072,49,Arthritis,Follow-up,30,25,Medium,1,General Practitioner,60
+PT-073,32,"Arthritis, None, Heart Disease",Follow-up,15,20,Urgent,4,General Practitioner,4
+PT-074,37,"Arthritis, None, Hypertension",Routine Check-up,15,25,Medium,3,General Practitioner,51
+PT-075,21,None,Follow-up,15,10,Urgent,2,General Practitioner,12
+PT-076,85,"Heart Disease, Chronic Pain, Asthma",Vaccination,30,35,Urgent,5,Cardiologist,17
+PT-077,22,Diabetes,Follow-up,30,35,Low,1,General Practitioner,49
+PT-078,31,Hypertension,Follow-up,15,10,Low,1,General Practitioner,56
+PT-079,44,Asthma,Urgent Care,15,5,Urgent,2,Cardiologist,16
+PT-080,64,"Diabetes, Hypertension",Follow-up,15,15,Low,2,General Practitioner,39
+PT-081,70,None,Routine Check-up,30,20,Urgent,3,General Practitioner,2
+PT-082,26,None,Urgent Care,30,40,Urgent,2,Neurologist,13
+PT-083,46,None,Urgent Care,30,30,Urgent,2,Cardiologist,27
+PT-084,50,Chronic Pain,Routine Check-up,15,5,Urgent,2,General Practitioner,22
+PT-085,78,None,"Forms (WCB, Insurance, etc.)",30,25,Low,2,General Practitioner,40
+PT-086,22,None,Vaccination,15,20,Urgent,2,General Practitioner,10
+PT-087,49,"Chronic Pain, Asthma",Vaccination,30,35,Medium,2,General Practitioner,40
+PT-088,41,Asthma,Vaccination,15,5,Low,1,Neurologist,75
+PT-089,59,"Chronic Pain, Asthma",Follow-up,15,20,Low,2,General Practitioner,53
+PT-090,66,"Diabetes, Heart Disease",Routine Check-up,15,25,Urgent,4,General Practitioner,3
+PT-091,50,"None, Heart Disease","Forms (WCB, Insurance, etc.)",30,20,Urgent,3,General Practitioner,28
+PT-092,64,"None, Heart Disease",Routine Check-up,30,25,Medium,2,General Practitioner,74
+PT-093,31,"Arthritis, None, Asthma",Blood Work Requisition,15,5,Urgent,4,Neurologist,24
+PT-094,34,Hypertension,"Forms (WCB, Insurance, etc.)",15,0,Urgent,2,General Practitioner,8
+PT-095,20,"Arthritis, None",Vaccination,30,30,Medium,2,Neurologist,8
+PT-096,72,"None, Asthma",Blood Work Requisition,15,25,Medium,3,General Practitioner,56
+PT-097,35,"None, Heart Disease, Chronic Pain",Urgent Care,30,40,Urgent,4,Neurologist,4
+PT-098,60,Arthritis,Vaccination,15,10,Urgent,2,Neurologist,18
+PT-099,63,None,Urgent Care,15,20,Urgent,2,General Practitioner,23
+PT-100,81,"None, Hypertension, Asthma",Blood Work Requisition,30,20,Low,4,Cardiologist,18
+PT-101,53,"None, Hypertension, Chronic Pain",Urgent Care,30,30,Urgent,4,Neurologist,29
+PT-102,71,Chronic Pain,Urgent Care,30,35,Urgent,3,General Practitioner,5
+PT-103,54,"Hypertension, Chronic Pain, Asthma",Follow-up,15,20,Urgent,4,General Practitioner,16
+PT-104,42,Heart Disease,Blood Work Requisition,30,25,Low,1,Neurologist,83
+PT-105,37,"Heart Disease, Hypertension, Asthma",Follow-up,30,0,Medium,3,General Practitioner,57
+PT-106,86,"None, Asthma",Follow-up,15,15,Low,3,General Practitioner,12
+PT-107,90,"Diabetes, Asthma",Follow-up,15,15,Urgent,4,General Practitioner,9
+PT-108,66,"Heart Disease, Hypertension",Routine Check-up,30,40,Low,3,General Practitioner,51
+PT-109,42,"Diabetes, Heart Disease",Follow-up,15,20,Low,2,General Practitioner,44
+PT-110,63,Heart Disease,Urgent Care,30,25,Urgent,2,Cardiologist,15
+PT-111,62,"Diabetes, Hypertension",Urgent Care,15,0,Urgent,3,Cardiologist,7
+PT-112,22,"Chronic Pain, Asthma",Follow-up,30,20,Urgent,3,General Practitioner,30
+PT-113,61,"None, Heart Disease, Asthma",Follow-up,15,20,Medium,3,General Practitioner,49
+PT-114,52,None,Follow-up,15,15,Medium,1,General Practitioner,53
+PT-115,66,None,Follow-up,30,30,Medium,2,General Practitioner,75
+PT-116,41,None,"Forms (WCB, Insurance, etc.)",30,30,Urgent,2,General Practitioner,9
+PT-117,75,"Chronic Pain, Asthma",Follow-up,15,0,Low,3,General Practitioner,11
+PT-118,44,Arthritis,Blood Work Requisition,30,25,Medium,1,Cardiologist,60
+PT-119,87,"None, Heart Disease",Follow-up,15,25,Urgent,4,General Practitioner,14
+PT-120,82,"None, Chronic Pain",Routine Check-up,15,25,Medium,3,General Practitioner,42
+PT-121,74,"Arthritis, None, Hypertension","Forms (WCB, Insurance, etc.)",15,0,Low,4,General Practitioner,58
+PT-122,29,None,Follow-up,30,20,Medium,1,General Practitioner,80
+PT-123,30,None,Urgent Care,30,40,Urgent,2,General Practitioner,10
+PT-124,73,None,Routine Check-up,30,0,Medium,2,General Practitioner,32
+PT-125,34,Chronic Pain,Follow-up,15,20,Urgent,2,General Practitioner,18
+PT-126,58,"Arthritis, Asthma",Urgent Care,15,25,Urgent,3,Cardiologist,10
+PT-127,28,"Arthritis, Chronic Pain, Asthma",Urgent Care,15,10,Urgent,4,General Practitioner,3
+PT-128,58,None,Vaccination,15,5,Medium,1,Neurologist,43
+PT-129,75,None,Blood Work Requisition,15,5,Low,2,Cardiologist,14
+PT-130,21,"Diabetes, Asthma",Follow-up,30,35,Medium,2,General Practitioner,14
+PT-131,86,"None, Asthma","Forms (WCB, Insurance, etc.)",15,10,Medium,3,General Practitioner,7
+PT-132,87,"None, Hypertension",Vaccination,30,35,Urgent,4,General Practitioner,3
+PT-133,33,"Diabetes, Chronic Pain",Routine Check-up,15,20,Urgent,3,General Practitioner,15
+PT-134,30,Arthritis,Follow-up,15,10,Urgent,2,General Practitioner,25
+PT-135,47,Asthma,Vaccination,15,10,Urgent,2,General Practitioner,2
+PT-136,60,"Arthritis, None","Forms (WCB, Insurance, etc.)",15,20,Medium,2,General Practitioner,82
+PT-137,78,"Diabetes, Heart Disease",Urgent Care,15,5,Urgent,4,General Practitioner,30
+PT-138,26,None,Routine Check-up,30,40,Low,1,General Practitioner,80
+PT-139,82,"None, Hypertension",Vaccination,15,15,Urgent,4,Cardiologist,21
+PT-140,24,None,Blood Work Requisition,15,15,Urgent,2,General Practitioner,25
+PT-141,56,Chronic Pain,Vaccination,30,0,Urgent,2,Neurologist,0
+PT-142,56,"Heart Disease, Hypertension, Chronic Pain","Forms (WCB, Insurance, etc.)",30,0,Low,3,General Practitioner,47
+PT-143,73,"Heart Disease, Asthma","Forms (WCB, Insurance, etc.)",30,35,Urgent,4,General Practitioner,9
+PT-144,57,None,Blood Work Requisition,30,40,Medium,1,Cardiologist,41
+PT-145,41,"None, Hypertension","Forms (WCB, Insurance, etc.)",15,5,Low,2,General Practitioner,82
+PT-146,78,Asthma,Follow-up,30,40,Low,2,General Practitioner,67
+PT-147,82,Arthritis,Routine Check-up,30,40,Urgent,3,General Practitioner,12
+PT-148,60,Chronic Pain,Vaccination,15,20,Medium,1,General Practitioner,64
+PT-149,42,Asthma,Follow-up,15,0,Medium,1,General Practitioner,49
+PT-150,73,Asthma,"Forms (WCB, Insurance, etc.)",30,20,Medium,2,General Practitioner,77
+PT-151,80,None,Routine Check-up,15,10,Medium,2,General Practitioner,35
+PT-152,36,"None, Heart Disease, Asthma",Urgent Care,15,20,Urgent,4,Cardiologist,6
+PT-153,23,"None, Chronic Pain",Routine Check-up,30,30,Medium,2,General Practitioner,73
+PT-154,44,Heart Disease,Blood Work Requisition,15,0,Urgent,2,Neurologist,4
+PT-155,23,"Arthritis, None",Blood Work Requisition,30,30,Medium,2,Neurologist,38
+PT-156,43,"Diabetes, None, Heart Disease",Vaccination,15,0,Medium,3,Cardiologist,60
+PT-157,44,"Heart Disease, Asthma","Forms (WCB, Insurance, etc.)",30,40,Low,2,General Practitioner,37
+PT-158,26,None,Vaccination,15,25,Low,1,Cardiologist,85
+PT-159,77,Arthritis,Routine Check-up,15,10,Medium,2,General Practitioner,50
+PT-160,34,None,Urgent Care,30,0,Urgent,2,Neurologist,16
+PT-161,82,"None, Chronic Pain",Vaccination,30,40,Medium,3,Neurologist,23
+PT-162,45,"None, Hypertension, Asthma",Urgent Care,15,25,Urgent,4,General Practitioner,16
+PT-163,54,Heart Disease,Blood Work Requisition,30,40,Low,1,Neurologist,38
+PT-164,68,Asthma,Vaccination,30,0,Urgent,3,Neurologist,7
+PT-165,51,"Hypertension, Chronic Pain","Forms (WCB, Insurance, etc.)",15,15,Urgent,3,General Practitioner,2
+PT-166,43,None,Follow-up,15,15,Medium,1,General Practitioner,42
+PT-167,28,"None, Chronic Pain",Routine Check-up,30,30,Medium,2,General Practitioner,62
+PT-168,65,None,"Forms (WCB, Insurance, etc.)",15,0,Low,1,General Practitioner,59
+PT-169,85,"Diabetes, None",Routine Check-up,15,10,Urgent,4,General Practitioner,10
+PT-170,47,Hypertension,"Forms (WCB, Insurance, etc.)",15,15,Urgent,2,General Practitioner,19
+PT-171,49,"Diabetes, Arthritis",Blood Work Requisition,15,25,Low,2,Cardiologist,43
+PT-172,70,"None, Chronic Pain, Asthma",Vaccination,15,0,Low,4,General Practitioner,7
+PT-173,25,None,"Forms (WCB, Insurance, etc.)",15,5,Urgent,2,General Practitioner,24
+PT-174,59,"None, Heart Disease","Forms (WCB, Insurance, etc.)",30,20,Low,2,General Practitioner,49
+PT-175,69,"None, Chronic Pain",Vaccination,30,25,Low,3,Cardiologist,9
+PT-176,59,None,Blood Work Requisition,15,0,Urgent,2,General Practitioner,9
+PT-177,89,"Diabetes, Arthritis, None",Follow-up,30,40,Urgent,5,General Practitioner,6
+PT-178,55,"Diabetes, Arthritis, None",Follow-up,30,35,Urgent,4,General Practitioner,8
+PT-179,55,"Heart Disease, Asthma",Follow-up,30,30,Low,2,General Practitioner,38
+PT-180,21,Heart Disease,Vaccination,15,5,Low,1,General Practitioner,38
+PT-181,63,"Arthritis, None",Urgent Care,30,0,Urgent,3,Cardiologist,20
+PT-182,62,"None, Asthma",Vaccination,15,20,Low,2,Cardiologist,84
+PT-183,80,Heart Disease,Vaccination,30,40,Urgent,3,Cardiologist,4
+PT-184,72,"None, Asthma",Blood Work Requisition,15,15,Urgent,4,Cardiologist,12
+PT-185,38,Hypertension,Urgent Care,15,10,Urgent,2,Cardiologist,1
+PT-186,86,None,Follow-up,30,0,Medium,2,General Practitioner,51
+PT-187,33,"None, Chronic Pain",Follow-up,30,25,Medium,2,General Practitioner,65
+PT-188,87,"Diabetes, Arthritis, None",Blood Work Requisition,15,20,Urgent,5,General Practitioner,9
+PT-189,22,None,Follow-up,15,25,Low,1,General Practitioner,57
+PT-190,20,"Diabetes, None",Follow-up,15,15,Urgent,3,General Practitioner,28
+PT-191,73,"Diabetes, None",Routine Check-up,30,25,Low,3,General Practitioner,33
+PT-192,81,None,Blood Work Requisition,30,25,Urgent,3,Neurologist,23
+PT-193,34,"None, Heart Disease, Asthma","Forms (WCB, Insurance, etc.)",15,10,Urgent,4,General Practitioner,17
+PT-194,44,"None, Asthma",Routine Check-up,30,40,Urgent,3,General Practitioner,11
+PT-195,24,"None, Hypertension",Blood Work Requisition,15,15,Urgent,3,Cardiologist,8
+PT-196,50,"None, Hypertension, Asthma",Blood Work Requisition,15,15,Urgent,4,Cardiologist,16
+PT-197,32,Chronic Pain,Follow-up,15,25,Urgent,2,General Practitioner,21
+PT-198,45,"Arthritis, None, Heart Disease","Forms (WCB, Insurance, etc.)",15,10,Low,3,General Practitioner,66
+PT-199,66,Hypertension,Blood Work Requisition,15,0,Medium,2,General Practitioner,71
+PT-200,71,"None, Hypertension, Chronic Pain",Blood Work Requisition,15,10,Medium,4,Neurologist,39
